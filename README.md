@@ -8,7 +8,7 @@ My work focuses on the sign, the letter, and the layout of text—whether in pri
 ## On the Web
 
 - **[Hypolite Martin](https://hypolitemartin.fr/)** – Design by Hypolite Martin and code by me.  
-- **[Sur les traces de Péril Zanvil](https://sur-les-traces-de-peril-zanvil.netlify.app/)** – Design by Typo(po)tin and code by me.
+- **[Sur les traces de Peril Zanvil](https://sur-les-traces-de-peril-zanvil.netlify.app/)** – Design by Typo(po)tin and code by me.
 - **[Tahiti 1967](https://quentindissard.com/import/web_projects/tahiti_1967/index.html)** – Design and code by me.  
 
 ---
